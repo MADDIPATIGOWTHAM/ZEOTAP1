@@ -3,7 +3,7 @@
 
 # Configuration settings for the weather monitoring system
 
-API_KEY = 'b5679720c29f578aaae62a169240f26f'  # Replace with your OpenWeatherMap API key
+API_KEY = '# Replace with your OpenWeatherMap API key'
 # config.py
 THRESHOLDS = {
     'temperature': 35,  # Temperature threshold in degrees Celsius
